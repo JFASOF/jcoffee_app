@@ -1,0 +1,65 @@
+[
+    {
+      "title": "Caramel Macchiato",
+      "price": 18,
+      "img": "lib/assets/images/1.png"
+    },
+    {
+      "title": "Caramel Cold Drink",
+      "price": 15,
+      "img": "lib/assets/images/2.png"
+    },
+    {
+      "title": "Iced Coffe Mocha",
+      "price": 17,
+      "img": "lib/assets/images/3.png"
+    },
+    {
+      "title": "Caramelized Pecan Latte",
+      "price": 19,
+      "img": "lib/assets/images/4.png"
+    },
+    {
+      "title": "Toffee Nut Latte",
+      "price": 26,
+      "img": "lib/assets/images/5.png"
+    },
+    {
+      "title": "Capuchino",
+      "price": 11,
+      "img": "lib/assets/images/6.png"
+    },
+    {
+      "title": "Toffee Nut Iced Latte",
+      "price": 27,
+      "img": "lib/assets/images/7.png"
+    },
+    {
+      "title": "Americano",
+      "price": 14,
+      "img": "lib/assets/images/8.png"
+    },
+    {
+      "title": "Vietnamese-Style Iced Coffee",
+      "price": 26,
+      "img": "lib/assets/images/9.png"
+    },
+    {
+      "title": " Black Tea Latte",
+      "price": 10,
+      "img": "lib/assets/images/10.png"
+    },
+  
+    {
+      "title": " Classic Irish Coffee",
+      "price": 12,
+      "img": "lib/assets/images/11.png"
+    },
+  
+    {
+      "title": "Toffee Nut Crunch Latte",
+      "price": 18,
+      "img": "lib/assets/images/12.png"
+    }
+  ]
+  
